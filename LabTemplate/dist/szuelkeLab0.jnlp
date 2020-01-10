@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="szuelkeLab0.jnlp">
+  <information>
+    <title>szuelkeLab0</title>
+    <vendor>StevenZuelke</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="szuelkeLab0.jar" size="3156" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="szuelkelab0.SzuelkeLab0"  name="szuelkeLab0" />
+  <update check="always"/>
+</jnlp>
